@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-generativeai
+httpx
+qdrant-client
+psycopg2-binary
+asyncpg
+python-multipart
+requests
